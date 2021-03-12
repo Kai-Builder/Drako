@@ -1,0 +1,4 @@
+= Drako.js, A modernized discord.js framework.
+
+Drako is a modernized discordJS framework that adds easier development for discord.js bots using the discord API.
+
